@@ -12,6 +12,8 @@ description:
   I'm claiming this name to avoid rampant namespace confusion
   between @lens:core@ and @lens-core@ in the latter scenario and
   to allow progress on the former scenario.
+  .
+  For now, use @lens@.
 homepage: https://github.com/ekmett/lens-core
 license: BSD-2-Clause OR Apache-2.0
 license-file: LICENSE.md

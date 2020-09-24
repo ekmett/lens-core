@@ -6,6 +6,8 @@ will provide defense against confusion between `lens:core` and `lens-core`
 if we proceed with a cabal 3 based multiple sublibrary approach to
 making `lens` capable of building in smaller chuks.
 
+For now, use `lens`.
+
 License
 -------
 
