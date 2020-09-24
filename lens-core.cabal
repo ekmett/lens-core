@@ -1,6 +1,6 @@
 cabal-version: 2.2
 name: lens-core
-version: 0
+version: 0.2
 synopsis: A placeholder for a future lens core package.
 description: 
   Cabal 2.2 allows reexported modules, which will eventually
